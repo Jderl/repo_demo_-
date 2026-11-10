@@ -12,6 +12,8 @@ namespace week16
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello 123!");
+            Console.WriteLine("Hello 456!");
         }
     }
 }
